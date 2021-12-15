@@ -7,7 +7,7 @@ import {
   TimelineProps,
 } from "../types/types";
 export const URL = "https://awesome-portfolio.piyushmehta.com";
-export const NAME = "Piyush Mehta";
+export const NAME = "Brajesh Rai";
 
 export const SECTIONS = ["Home", "Experience", "Projects", "Skills"];
 export const HERO_IMAGE = "https://picsum.photos/id/1005/1600/1400";
